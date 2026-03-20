@@ -48,6 +48,8 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 output:
+
+
 <img width="518" height="480" alt="Screenshot 2025-12-07 005656" src="https://github.com/user-attachments/assets/dae40f0d-fc61-4171-ae67-1053c622b4ba" />
 <img width="464" height="531" alt="Screenshot 2025-12-07 005620" src="https://github.com/user-attachments/assets/071e2088-503c-4fbf-93d8-2ce9704bdd09" />
 ![WhatsApp Image 2025-12-06 at 11 22 44_6758aa52](https://github.com/user-attachments/assets/073bf860-3025-46a1-8fe9-c76bd3e49b8e)
@@ -56,6 +58,8 @@ output:
 <img width="858" height="500" alt="Screenshot 2025-12-07 011329" src="https://github.com/user-attachments/assets/c80344ba-dfc9-45bd-89a4-b93281ef2564" />
 ![WhatsApp Image 2025-12-06 at 11 23 15_3479573c](https://github.com/user-attachments/assets/ef0ce71e-e87d-40b7-be78-7834bc9b6aa3)
 <img width="1247" height="623" alt="Screenshot 2025-12-07 011552" src="https://github.com/user-attachments/assets/924755b2-944f-44b1-8462-235aafc28cf3" />
+
+
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
